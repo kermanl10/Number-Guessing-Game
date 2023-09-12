@@ -15,7 +15,7 @@ int main() {
     }
 
     while(1){
-    cout<<"Tahmininiz:";
+    cout<<"Your guess:";
     cin>>YouTah;
     if(YouTah==number){
         cout<<"Congratulations, you won, you guessed the number I had in mind correctly. "<<endl;
